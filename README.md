@@ -1,6 +1,6 @@
 # Confirm-UpdatingAzureRmNSG
 
-The script which helps a human to update the setting of NSG.
+The script which help a human to update the setting of NSG.
 
 # Install
 
